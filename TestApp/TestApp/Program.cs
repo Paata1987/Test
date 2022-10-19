@@ -3,26 +3,23 @@
     static void Main()
     {
 
-        int inputNumber = 3852;  //input
+            int inputSeconds = 288970;
         
+          
+            int min = 60;
+            int hour = 60*min;
+            int day = 24*hour;
 
-        decimal decimaInputNumber = inputNumber;
+          
 
-        
+            int outputDay = inputSeconds/day;
+            int outputHour = (inputSeconds-outputDay*day)/hour;
+            int outputMin = (inputSeconds-outputDay*day-outputHour*hour)/min;
+            int outputSek  =inputSeconds-outputDay*day-outputHour*hour-outputMin*min;
+         
 
-        decimal lastDigits = decimaInputNumber / 1000;
-        decimal firstDigits = inputNumber / 1000;
-        decimal compareValue = (lastDigits - firstDigits) * 1000;
+            System.Console.Write(outputDay + " days, " + outputHour + " hours, "+outputMin + " minutes,"   + outputSek +" seconds");
+            System.Console.ReadKey();
 
-
-        int thouseequalntCounter = inputNumber / 1000 * 1000;
-        int moreOrEqualFhundred = (compareValue >= 500) ? 1000 : 0 ;
-        int lessThanFhundred = (inputNumber < 500) ? 1000 : 0 ;
-
-        int finalRoundedResult = thouseequalntCounter + moreOrEqualFhundred + lessThanFhundred;
-
-        System.Console.WriteLine(finalRoundedResult);
-        System.Console.ReadKey();
-    
     }
 }

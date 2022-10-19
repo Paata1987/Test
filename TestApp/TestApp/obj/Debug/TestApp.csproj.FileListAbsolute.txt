@@ -6,3 +6,11 @@ C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRe
 C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
 C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Repository\Test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Repository\Test\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Repository\Test\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Repository\Test\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Repository\Test\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Test\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Repository\Test\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Repository\Test\TestApp\TestApp\obj\Debug\TestApp.pdb
