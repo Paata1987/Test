@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-
+        /*
             int inputSeconds = 288970;
         
           
@@ -19,7 +19,43 @@
          
 
             System.Console.Write(outputDay + " days, " + outputHour + " hours, "+outputMin + " minutes,"   + outputSek +" seconds");
-            System.Console.ReadKey();
+
+        */
+        // Height categories Assignment:
+
+        
+
+        //input value
+
+        double heightInInches = 75;
+
+        //convertation
+
+        double inchToSantimeter = 2.54;
+        double heighInsantimeter = heightInInches * inchToSantimeter;
+
+
+
+        if (heighInsantimeter < 150)
+        {
+            System.Console.WriteLine("Dwarf");
+        }
+        else if (heighInsantimeter > 150 && heighInsantimeter < 165)
+        {
+            System.Console.WriteLine("Average height");
+        }
+        else if (heighInsantimeter > 165 && heighInsantimeter < 195)
+        {
+            System.Console.WriteLine("Tall");
+        }
+        else
+        {
+            System.Console.WriteLine("Abnormal height");
+        };
+
+
+
+        System.Console.ReadKey();
 
     }
 }
