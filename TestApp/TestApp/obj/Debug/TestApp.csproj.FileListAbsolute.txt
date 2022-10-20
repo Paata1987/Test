@@ -1,8 +1,0 @@
-C:\Repository\C#.net\TestApp\TestApp\bin\Debug\TestApp.exe.config
-C:\Repository\C#.net\TestApp\TestApp\bin\Debug\TestApp.exe
-C:\Repository\C#.net\TestApp\TestApp\bin\Debug\TestApp.pdb
-C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
-C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
-C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
-C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.exe
-C:\Repository\C#.net\TestApp\TestApp\obj\Debug\TestApp.pdb
