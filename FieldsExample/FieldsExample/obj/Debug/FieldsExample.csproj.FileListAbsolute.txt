@@ -1,0 +1,11 @@
+C:\Repository\C#.net\FieldsExample\FieldsExample\bin\Debug\FieldsExample.exe.config
+C:\Repository\C#.net\FieldsExample\FieldsExample\bin\Debug\FieldsExample.exe
+C:\Repository\C#.net\FieldsExample\FieldsExample\bin\Debug\FieldsExample.pdb
+C:\Repository\C#.net\FieldsExample\FieldsExample\bin\Debug\ClassLibrary1.dll
+C:\Repository\C#.net\FieldsExample\FieldsExample\bin\Debug\ClassLibrary1.pdb
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.AssemblyReference.cache
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.SuggestedBindingRedirects.cache
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.CoreCompileInputs.cache
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.csproj.CopyComplete
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.exe
+C:\Repository\C#.net\FieldsExample\FieldsExample\obj\Debug\FieldsExample.pdb
