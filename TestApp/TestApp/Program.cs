@@ -27,11 +27,11 @@
 
         //input value
 
-        double heightInInches = 75;
+        //double heightInInches = 75;
 
         //convertation
 
-        double inchToSantimeter = 2.54;
+       /* double inchToSantimeter = 2.54;
         double heighInsantimeter = heightInInches * inchToSantimeter;
 
 
@@ -52,7 +52,7 @@
         {
             System.Console.WriteLine("Abnormal height");
         };
-
+       */
 
 
         System.Console.ReadKey();
