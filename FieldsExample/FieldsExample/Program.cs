@@ -1,12 +1,79 @@
-﻿class Sample
+﻿
+
+class Sample
 {
     static void Main()
     {
         //local constant variable
-        const string developerName = "Paata";
+        //const string developerName = "Paata";
         
         //assignment 
-        const OrganizationName = "Harsha Inc.";
+      
+        Employee OrganizationName = "Harsha Inc.";
+        System.Console.WriteLine("Organizations Namae: " + OrganizationName);
+
+          
+        //Employee employee1, employee2,employee3,employee4,employee5,employee6,employee7, employee8,employee9,employee10;
+
+        for (int i = 0; i < 10; i++)
+        {
+            string empCount ;
+            switch (i)
+                {
+                     default 1: empCount = "Emplyoye n1 "; break;
+                      case 2: empCount = "Emplyoye n2 "; break;
+                      case 3: empCount = "Emplyoye n3 "; break;
+                      case 4: empCount = "Emplyoye n4 "; break;
+                      case 5: empCount = "Emplyoye n5 "; break;
+                      case 6: empCount = "Emplyoye n6 "; break;
+                      case 7: empCount = "Emplyoye n7 "; break;
+                      case 8: empCount = "Emplyoye n8 "; break;
+                      case 9: empCount = "Emplyoye n9 "; break;
+                      case 10: empCount = "Emplyoye n10 "; break;
+                }
+            Employee employeVar = new Employee();
+
+            System.Console.Write(empCount);
+
+            System.Console.Write("Employee ID: ");
+            employeVar.empID = int.Parse(System.Console.ReadLine());
+            System.Console.Write("Employee Name: ");
+            employeVar.EmpName = System.Console.ReadLine();
+            System.Console.Write("Employee solary Per Hour: ");
+            employeVar.SalaryPerHour = int.Parse(System.Console.ReadLine());
+            System.Console.Write("Employee Amount Working Hours: ");
+            employeVar.NoOfWorkingHours = int.Parse(System.Console.ReadLine());
+
+            employeVar.NetSalary = employeVar.SalaryPerHour * employeVar.NoOfWorkingHours ;
+
+            System.Console.WriteLine("Data Details OF: " + employeVar);
+            System.Console.WriteLine("Emplyee' ID: " + employeVar.empID );
+            System.Console.WriteLine("Emplyee's Name: " + employeVar.empName );
+            System.Console.WriteLine("Wolary Per Hhour: "+ employeVar.SalaryPerHour);
+            System.Console.WriteLine("Working Hours: " + employeVar.NoOfWorkingHours);
+            System.Console.WriteLine("Net Solary: " +  employeVar.NetSalary);
+            System.Console.WriteLine("Organizations Name: " + employeVar.OrganizationName);
+            System.Console.WriteLine("Departament's Name: " + employeVar.DepartmentName );
+            System.Console.WriteLine("Type Of Employee:" + employeVar.TypeOfEmployee);
+            
+
+            System.Console.Write("Continue To Next Employee? Yes/no:  ");
+            string answer = System.Console.ReadLine();
+            if (!(answer == "Yes" ))
+            {
+                break;
+            }
+            System.Console.WriteLine(":::::::::::::::::::::::::::::::::::::::::::::::::::::::");
+           
+             
+        
+        }
+       System.Console.WriteLine("Done ");
+       System.Console.ReadKey();
+    }
+}
+
+   /*
 
         //create referance variables
         Product product1, product2, product3;
@@ -19,7 +86,6 @@
         product3 = new Product();
         Product.TotalNoProducts++;
 
-        Employee employee1, employee2,employee3,employee4,employee5,employee6,employee7, employee8,employee9,employee10;
 
 
 
@@ -71,8 +137,4 @@
 
         //Assignment
 
-
-
-        System.Console.ReadKey();
-    }
-}
+        */
