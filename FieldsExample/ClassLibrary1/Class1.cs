@@ -1,12 +1,11 @@
-﻿/*
-  public class Product
+﻿public class Product
 {
     //fields
-    public uint productID;
+    public int productID;
     public string productName;
     public double cost;
     public int quantityStock; 
-    public static double TotalNoProducts;
+    public static int TotalNoProducts;
     public const string CategoryName = "Electronics";
     public readonly string dateOfPurchase;
 
@@ -20,8 +19,19 @@
 }
 
 
-*/
+//create child class for product class
+public class domesticProduct:Product
+{
 
+}
+
+public class OtherClass2
+{
+
+}
+
+
+/*
 public class Employee
 {
     public int EmpID; 
@@ -31,12 +41,13 @@ public class Employee
     public double NetSalary;
     public static OrganizationName;
     public const string TypeOfEmployee =  "Contract Based" ;
-    public readonly  string DepartamentName;
+    public readonly  string DepartmentName;
 
     
     public Employee()
     {
-        DepartamentName = "Finance Department" ;
+        DepartmentName = "Finance Department" ;
     }
 
 }
+*/
