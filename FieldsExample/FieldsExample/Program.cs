@@ -7,8 +7,11 @@
 
         //create  objects
         product1 = new Product();
+        Product.TotalNoProducts++;
         product2 = new Product();
+        Product.TotalNoProducts++;
         product3 = new Product();
+        Product.TotalNoProducts++;
 
 
         //initialize fields
@@ -33,21 +36,27 @@
         System.Console.WriteLine("Product Name: " + product1.productName);
         System.Console.WriteLine("Cost: " + product1.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product1.quantityStock);
+        System.Console.WriteLine("Date of purchasek: " + product1.dateOfPurchase);
 
         System.Console.WriteLine("\nProduct2: ");
         System.Console.WriteLine("Product ID: " + product2.productID);
         System.Console.WriteLine("Product Name: " + product2.productName);
         System.Console.WriteLine("Cost: " + product2.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product2.quantityStock);
+        System.Console.WriteLine("Date of purchasek: " + product2.dateOfPurchase);
 
         System.Console.WriteLine("\nProduct3: ");
         System.Console.WriteLine("Product ID: " + product3.productID);
         System.Console.WriteLine("Product Name: " + product3.productName);
         System.Console.WriteLine("Cost: " + product3.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product3.quantityStock);
+        System.Console.WriteLine("Date of purchasek: " + product3.dateOfPurchase);
 
         int totalQuantitty = product1.quantityStock + product2.quantityStock + product3.quantityStock;
         System.Console.WriteLine("Total Quantity" + totalQuantitty);
+
+        System.Console.WriteLine("Total no. of products: " + Product.TotalNoProducts);
+        System.Console.WriteLine("Category of products " + Product.CategoryName);
         System.Console.ReadKey();
     }
 }
