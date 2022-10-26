@@ -2,6 +2,12 @@
 {
     static void Main()
     {
+        //local constant variable
+        const string developerName = "Paata";
+        
+        //assignment 
+        const OrganizationName = "Harsha Inc.";
+
         //create referance variables
         Product product1, product2, product3;
 
@@ -12,6 +18,9 @@
         Product.TotalNoProducts++;
         product3 = new Product();
         Product.TotalNoProducts++;
+
+        Employee employee1, employee2,employee3,employee4,employee5,employee6,employee7, employee8,employee9,employee10;
+
 
 
         //initialize fields
@@ -31,6 +40,8 @@
         product3.quantityStock = 800;
 
         //get value from fields
+        System.Console.WriteLine(developerName);
+
         System.Console.WriteLine("Product1: ");
         System.Console.WriteLine("Product ID: " + product1.productID);
         System.Console.WriteLine("Product Name: " + product1.productName);
@@ -57,6 +68,11 @@
 
         System.Console.WriteLine("Total no. of products: " + Product.TotalNoProducts);
         System.Console.WriteLine("Category of products " + Product.CategoryName);
+
+        //Assignment
+
+
+
         System.Console.ReadKey();
     }
 }
