@@ -38,6 +38,13 @@ class Sample
         product3.cost = 36000;
         product3.quantityStock = 800;
 
+        //call methods
+        product1.CalculateTax();
+        product2.CalculateTax();
+        product3.CalculateTax();
+
+        
+
         //get value from fields
         System.Console.WriteLine(developerName);
 
@@ -47,6 +54,7 @@ class Sample
         System.Console.WriteLine("Cost: " + product1.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product1.quantityStock);
         System.Console.WriteLine("Date of purchasek: " + product1.dateOfPurchase);
+        System.Console.WriteLine("Tax: " + product1.tax);
 
         System.Console.WriteLine("\nProduct2: ");
         System.Console.WriteLine("Product ID: " + product2.productID);
@@ -54,6 +62,7 @@ class Sample
         System.Console.WriteLine("Cost: " + product2.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product2.quantityStock);
         System.Console.WriteLine("Date of purchasek: " + product2.dateOfPurchase);
+        System.Console.WriteLine("Tax: " + product2.tax);
 
         System.Console.WriteLine("\nProduct3: ");
         System.Console.WriteLine("Product ID: " + product3.productID);
@@ -61,8 +70,11 @@ class Sample
         System.Console.WriteLine("Cost: " + product3.cost);
         System.Console.WriteLine("Quantity  in Stock: " + product3.quantityStock);
         System.Console.WriteLine("Date of purchasek: " + product3.dateOfPurchase);
+        System.Console.WriteLine("Tax: " + product3.tax);
 
         int totalQuantitty = product1.quantityStock + product2.quantityStock + product3.quantityStock;
+
+        System.Console.WriteLine("---------------------------------------------");
         System.Console.WriteLine("Total Quantity" + totalQuantitty);
 
         System.Console.WriteLine("Total no. of products: " + Product.TotalNoProducts);

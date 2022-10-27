@@ -10,3 +10,9 @@ C:\Repository\Test\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.cspr
 C:\Repository\Test\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
 C:\Repository\Test\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Repository\Test\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Repository\C#.net\Test\FieldsExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
