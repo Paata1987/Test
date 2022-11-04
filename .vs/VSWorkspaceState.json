@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Properties",
+    "\\Properties\\ClassLibrary1",
+    "\\Properties\\ConstructorsExample"
   ],
+  "SelectedNode": "\\Properties\\ConstructorsExample\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

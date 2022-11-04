@@ -1,0 +1,12 @@
+C:\CSharp\ConstructorsExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\CSharp\ConstructorsExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\ConstructorsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\CSharp\ConstructorsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\CSharp\ConstructorsExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\CSharp\ConstructorsExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Repository\C#.net\Test\Properties\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
