@@ -1,4 +1,51 @@
-﻿class Program
+﻿using System;
+
+
+
+//class test example
+/*
+        class Myclass
+        {
+            public void Method()
+            {
+                Console.WriteLine("vivod metod klassa myclass");
+            }
+        }
+
+        class Myclass2
+        {
+            public void CallMethod(Myclass my)
+            {
+                my.Method();
+            }
+        }
+
+        class Programm
+        {
+            static void Some()
+            {
+                Myclass my = new Myclass();
+                Myclass2 my2 = new Myclass2();
+
+                my2.CallMethod(my);
+
+                Console.ReadKey();
+            }
+        }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+class Program
 {
     static void Main()
     {
