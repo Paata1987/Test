@@ -19,3 +19,14 @@ C:\Repository\C#.net\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsE
 C:\Repository\C#.net\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.csproj.CopyComplete
 C:\Repository\C#.net\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.exe
 C:\Repository\C#.net\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.pdb
+C:\Repository\Test\Properties\ConstructorsExample\bin\Debug\ConstructorsExample.exe.config
+C:\Repository\Test\Properties\ConstructorsExample\bin\Debug\ConstructorsExample.exe
+C:\Repository\Test\Properties\ConstructorsExample\bin\Debug\ConstructorsExample.pdb
+C:\Repository\Test\Properties\ConstructorsExample\bin\Debug\ClassLibrary1.dll
+C:\Repository\Test\Properties\ConstructorsExample\bin\Debug\ClassLibrary1.pdb
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.csproj.AssemblyReference.cache
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.csproj.CoreCompileInputs.cache
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.csproj.CopyComplete
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.exe
+C:\Repository\Test\Properties\ConstructorsExample\obj\Debug\ConstructorsExample.pdb

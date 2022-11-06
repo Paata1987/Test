@@ -3,7 +3,7 @@
 
 
 //class test example
-/*
+
         class Myclass
         {
             public void Method()
@@ -32,7 +32,7 @@
                 Console.ReadKey();
             }
         }
-*/
+
 
 
 
